@@ -8,4 +8,4 @@ Hello i'm leanring [ython tpoday]
 print("Hello World")
 ```
 
-**BOLD TEXT**
+> "Belajarlah sampai manda mumet" 
