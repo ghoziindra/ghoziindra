@@ -1,8 +1,8 @@
 ---
-title: Learn Ptthon
+title: Learn Python
 ---
 
-Hello i'm leanring [ython tpoday]
+Hello, today i'm learning build web with Python.
 
 ```python
 print("Hello World")
