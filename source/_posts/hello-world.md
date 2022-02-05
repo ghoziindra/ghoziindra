@@ -1,11 +1,15 @@
 ---
-title: Learn Python
+title: Belajar Python Basic
 ---
 
-Hello, today i'm learning build web with Python.
+Halo, disini saya akan *sharing* materi belajar saya tentang dasar-dasar pemrograman Python.
 
+Sejauh ini saya belum begitu fasih menghafal syntax, function 🤣.
+
+1. function Print("")
 ```python
 print("Hello World")
 ```
 
-> "Belajarlah sampai manda mumet" 
+> "Belajarlah dari Error" 
+>       Manda, 25th
