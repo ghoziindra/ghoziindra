@@ -1,5 +1,5 @@
 #title in header
-title: "Hi Folks."
+title: "Welcome."
 
 #main info
 #owner
@@ -30,10 +30,8 @@ usercss: css/user.css
 footer: true
 placename: Earth
 placelink: https://en.wikipedia.org/wiki/Earth
-github: https://github.com/adisaktijrs
-linkedin: https://linkedin.com/in/adisaktijrs
-twitter: https://twitter.com/adisaktijrs
-instagram: https://instagram.com/adisaktijrs
+github: https://github.com/ghoziindra
+twitter: https://twitter.com/ghoziindra
 
 # Misc
 nanobar: /js/nanobar.min.js

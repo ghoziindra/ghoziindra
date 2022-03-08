@@ -19,6 +19,6 @@ Print() pada Python berfungsi untuk mencetak output program. Contoh di atas adal
 x = 5 #int
 y = 1.5 #float
 z = 1j #complex
-
+```
 Python terdiri dari tiga jenis angka, *integer* atau bilangan bulat, *float* atau bilangan desimal, dan *complex* atau bilangan campuran.
  
